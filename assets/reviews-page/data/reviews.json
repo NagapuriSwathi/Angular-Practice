@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Shirin",
+        "courseTaken": "Front End Devloper",
+        "ratings": "⭐⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "Easy to follow"
+    },
+    {
+        "id": 2,
+        "name": "Aarav",
+        "courseTaken": "Full Stack Developer",
+        "ratings": "⭐⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "Very helpful and easy to understand"
+    },
+    {
+        "id": 3,
+        "name": "Priya",
+        "courseTaken": "UI/UX Designer",
+        "ratings": "⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "Great course for beginners"
+    },
+    {
+        "id": 4,
+        "name": "Rahul",
+        "courseTaken": "JavaScript Developer",
+        "ratings": "⭐⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "The lessons were clear and practical"
+    },
+    {
+        "id": 5,
+        "name": "Ananya",
+        "courseTaken": "React Developer",
+        "ratings": "⭐⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "Loved the practical examples"
+    },
+    {
+        "id": 6,
+        "name": "Vikram",
+        "courseTaken": "Web Developer",
+        "ratings": "⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "Good content and well structured"
+    },
+    {
+        "id": 7,
+        "name": "Meera",
+        "courseTaken": "Frontend Developer",
+        "ratings": "⭐⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "Simple explanations and great examples"
+    },
+    {
+        "id": 8,
+        "name": "Arjun",
+        "courseTaken": "Backend Developer",
+        "ratings": "⭐⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "A very useful learning experience"
+    },
+    {
+        "id": 9,
+        "name": "Neha",
+        "courseTaken": "HTML & CSS",
+        "ratings": "⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "Perfect for starting web development"
+    },
+    {
+        "id": 10,
+        "name": "Rohan",
+        "courseTaken": "MERN Stack Developer",
+        "ratings": "⭐⭐⭐⭐⭐",
+        "profileImage": "https://cdn.pixabay.com/photo/2015/12/09/22/26/people-1085695_1280.png",
+        "review": "Excellent course with practical projects"
+    }
+]
