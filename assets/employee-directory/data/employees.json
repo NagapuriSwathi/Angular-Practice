@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "department": "Engineering",
+        "role": "Frontend Developer",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Priya Shah",
+        "department": "Design",
+        "role": "UI/UX Designer",
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "name": "Amit Kumar",
+        "department": "Engineering",
+        "role": "Backend Developer",
+        "status": "Inactive"
+    },
+    {
+        "id": 4,
+        "name": "Neha Patel",
+        "department": "Human Resources",
+        "role": "HR Manager",
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "name": "Arjun Mehta",
+        "department": "Engineering",
+        "role": "Full Stack Developer",
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "name": "Sneha Iyer",
+        "department": "Marketing",
+        "role": "Marketing Specialist",
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "name": "Vikram Singh",
+        "department": "Engineering",
+        "role": "DevOps Engineer",
+        "status": "Inactive"
+    },
+    {
+        "id": 8,
+        "name": "Ananya Rao",
+        "department": "Finance",
+        "role": "Financial Analyst",
+        "status": "Active"
+    }
+]
